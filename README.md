@@ -33,7 +33,13 @@ React application that makes a Ajax request over to API called splash
 API to display images depending on the user's search.
 
 ![Screenshot Image](public/logoRepo.png)
-
+![Screenshot Image](/public/logoRepo.png)
+![Screenshot Image](./public/logoRepo.png)
+![Screenshot Image](../public/logoRepo.png)
+![Screenshot Image](public/logoRepo.PNG)
+![Screenshot Image](/public/logoRepo.PNG)
+![Screenshot Image](./public/logoRepo.PNG)
+![Screenshot Image](../public/logoRepo.PNG)
 ### Built With
 
 The project was developed using these tools and technologies.
