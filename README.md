@@ -46,15 +46,14 @@ The project was developed using these tools and technologies.
 
 Yair Fernando Facio Fraga
 <p align="center">
-  <p align="center">
+
   Project Link: [https://github.com/YairFernando67/Pics](https://github.com/YairFernando67/Pics)
-  </p>
 </p>
 
 <p align="center" style="display: flex; justify-content: center; align-items: center;">
     <a target="_blank" href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=yair.facio11@gmail.com">
       yair.facio11@gmail.com
-    </a> &nbsp;
+    </a> &nbsp; |
     <a target="_blank" href="https://yairfernando67.github.io/Portfolio/">
       Portfolio
     </a> &nbsp; |
